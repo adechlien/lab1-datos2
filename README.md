@@ -1,7 +1,7 @@
 # Laboratorio 1 - Estructuras de datos II
 
 > **Miembros del grupo**
-> - Juan Carrasquilla
+> - Juan Miguel Carrasquilla
 > - Alejandro Hernández
 > - Nicole Murillo
 > - Efraín Rada
